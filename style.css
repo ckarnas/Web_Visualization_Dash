@@ -1,0 +1,61 @@
+h1 {
+    color: teal;
+    font-size: 24pt;
+  }
+
+.jumbotron {
+    color: #505050;
+  }
+
+.jumbotron > p {
+    font-size: 14pt
+}
+  
+.btn {
+    background-color: teal
+}
+
+.btn-primary {
+    background-color: teal
+}
+
+.text-center {
+    color:teal;
+    font-weight: bold
+}
+
+.col-md-6 >a >img {
+    margin: auto;    
+    display: block
+}
+
+.col-md-8 >a >img {
+    margin: auto;    
+    display: block
+}
+.doodle >a >img{
+    margin: auto;    
+    display: block
+
+}
+
+.doodle_button >a {
+    margin: auto;    
+    display: block
+
+}
+
+.col-md-12 > a {
+    margin: auto;    
+    display: block
+
+}
+.col-sm-12{
+    margin: auto;    
+    display: block
+
+}
+
+
+
+
